@@ -2,7 +2,7 @@
 
 
 
-# [Project Name] 🎯
+# Nthuvaa-eth 🎯
 
 
 ## Basic Details
