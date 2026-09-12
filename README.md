@@ -73,13 +73,19 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-blob:https://web.whatsapp.com/c962f82c-2263-41a3-8f20-780981eb6fed
+<img width="960" height="1280" alt="WhatsApp Image 2026-09-12 at 5 57 20 AM" src="https://github.com/user-attachments/assets/8eef46a9-28b3-4497-a308-7cdb88c469da" />
+
+*Add caption explaining what this shows*
+<img width="960" height="1280" alt="WhatsApp Image 2026-09-12 at 5 57 21 AM" src="https://github.com/user-attachments/assets/d77d5361-65d0-4dc1-a8f1-4e1a0ef72430" /> 
+
+
+
+<img width="575" height="1280" alt="WhatsApp Image 2026-09-12 at 5 57 28 AM" src="https://github.com/user-attachments/assets/fc11d0f6-eb21-4e74-abf5-676305caa105" />
+
+
 *Add caption explaining what this shows*
 
-blob:https://web.whatsapp.com/2414f0a0-7e7f-4398-ad19-141441da30aa
-*Add caption explaining what this shows*
 
-blob:https://web.whatsapp.com/830038cc-06c4-4d2b-abb3-b6ee714c1e16
 *Add caption explaining what this shows*
 
 # Diagrams
