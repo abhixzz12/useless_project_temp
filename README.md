@@ -95,7 +95,8 @@ For Software:
 For Hardware:
 
 # Schematic & Circuit
-<img width="1691" height="698" alt="Screenshot 2026-09-12 031418" src="https://github.com/user-attachments/assets/948f5d82-2756-413a-a306-ab9acf823b65" />
+<img width="1691" height="698" alt="Screenshot 2026-09-12 031418" src="https://github.com/user-attachments/assets/4de7ecff-8c5c-4881-9799-0b6c937fd302" />
+
 
 *Add caption explaining connections*
 
